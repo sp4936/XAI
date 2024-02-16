@@ -10,14 +10,6 @@ This project is an ML-based interactive web application built with Streamlit tha
 Getting Started
 To run the project, follow these steps:
 
-Clone the repository:
-https://github.com/Omkar-Rajkumar-Khade/Customer_churn_prediction_using_ann_using_XAI.git
-Install the required libraries:
-pip install pandas numpy scikit-learn shap lime matplotlib streamlit
-Open the Jupyter Notebook CCP_using_SML.ipynb using Jupyter Notebook or any compatible environment.
-
-Open the terminal or command prompt and navigate to the repository directory.
-
 Run the Streamlit app: streamlit run streamlit_app.py
 
 The app will open in your default web browser, allowing you to input feature values and see churn predictions.
